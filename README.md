@@ -9,4 +9,5 @@ Tkinter is Python's standard GUI (Graphical User Interface) package. It allows y
 To install Tkinter, use the following command and simply run the code and enjoy:
 
 ```bash
-pip install tk
+pip install tkinter
+pip install base64
